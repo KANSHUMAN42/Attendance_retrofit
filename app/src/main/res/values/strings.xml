@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance app</string>
+    <string name="Classname">Classname:%1$s</string>
+    <string name="present">present:%1$s</string>
+    <string name="sick">sick:%1$s</string>
+    <string name="absent">absent:%1$s</string>
+    <string name="late">late:%1$s</string>
+</resources>
